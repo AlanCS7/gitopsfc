@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: alancs7/gitopsfc
-  newTag: ec89014bf7b1ba6231108c80ec92443db1e9220d
+  newTag: 5015aef3712f344822d57f9fafeef3d81122941c
